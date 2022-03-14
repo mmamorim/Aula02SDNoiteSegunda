@@ -1,5 +1,10 @@
 
-console.log("Oi gente! Oi gente!");
-console.log("Oi gente! Oi gente!");
-console.log("Oi gente! Oi gente!");
+let faker = require('faker-br');
 
+let cpf = faker.br.cpf();
+
+console.log("CPF: ",cpf);
+
+let paragrafos = faker.lorem.paragraphs();
+
+console.log("paragrafos: ",paragrafos);
