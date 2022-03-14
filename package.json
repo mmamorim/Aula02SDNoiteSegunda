@@ -1,0 +1,22 @@
+{
+  "name": "aula02sdnoitesegunda",
+  "version": "1.0.0",
+  "description": "Aula02 SD Noite Segunda",
+  "main": "teste.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmamorim/Aula02SDNoiteSegunda.git"
+  },
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmamorim/Aula02SDNoiteSegunda/issues"
+  },
+  "homepage": "https://github.com/mmamorim/Aula02SDNoiteSegunda#readme",
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}
